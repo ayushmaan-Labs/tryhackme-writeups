@@ -1,2 +1,2 @@
 # tryhackme-writeups
-A collection of TryHackMe walkthroughs for blue-team/SOC learning. Focused on incident response, SIEM, log analysis, and detection.
+This repository contains my personal writeups for TryHackMe labs and rooms.
