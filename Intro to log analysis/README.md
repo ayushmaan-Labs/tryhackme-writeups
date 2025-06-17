@@ -13,3 +13,12 @@ o	Task walkthrough
 7.	Task 7: Using Regular Expressions for Log Analysis and Parsing
 8.	Task 8: Log Analysis tool – Cyber chef
 9.	Task 9: Yara and Sigma
+
+
+##Room Summary
+This room explores critical role of log files in cyber security. It  helps user to understand common log formats, understanding essential fields and applying detection technique to identify malicious behavior using real world examples.
+##Objectives
+•	 Understand types of logs (auth, Apache, syslog, etc.)
+•	  Learn structure and fields in logs
+•	 Identify indicators of compromise (IoCs)
+•	 Practice basic log analysis using command-line tools
