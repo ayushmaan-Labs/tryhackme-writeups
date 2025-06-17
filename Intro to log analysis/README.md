@@ -15,9 +15,9 @@ o	Task walkthrough
 9.	Task 9: Yara and Sigma
 
 
-##Room Summary
+###Room Summary
 This room explores critical role of log files in cyber security. It  helps user to understand common log formats, understanding essential fields and applying detection technique to identify malicious behavior using real world examples.
-##Objectives
+###Objectives
 •	 Understand types of logs (auth, Apache, syslog, etc.)
 •	  Learn structure and fields in logs
 •	 Identify indicators of compromise (IoCs)
