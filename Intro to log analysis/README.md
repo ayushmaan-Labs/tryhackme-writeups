@@ -40,3 +40,16 @@ Log analysis is the process of examining computer-generated records (logs) to de
 **Q: What is the main goal of log analysis?**
 
 **A:** To detect suspicious or malicious behavior from system or network activity.
+
+### Task 2: Log File Types
+
+Explains syslogs, auth logs, and application logs.
+
+**Example Image:**
+
+### Task 2: Log File Types
+Explains syslogs, auth logs, and application logs.
+**Example Image:**
+### Task 2: Log File Types
+Explains syslogs, auth logs, and application logs.
+**Example Image:**
