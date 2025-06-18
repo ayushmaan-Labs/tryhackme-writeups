@@ -46,10 +46,3 @@ Log analysis is the process of examining computer-generated records (logs) to de
 Explains syslogs, auth logs, and application logs.
 
 **Example Image:**
-
-### Task 2: Log File Types
-Explains syslogs, auth logs, and application logs.
-**Example Image:**
-### Task 2: Log File Types
-Explains syslogs, auth logs, and application logs.
-**Example Image:**
