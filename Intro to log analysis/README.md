@@ -252,3 +252,22 @@ grep -n "admin" apache.log             # Show line numbers
 grep -v "/index.php" apache.log        # Exclude lines with "/index.php"
 
 ```
+
+### Task 7: Using Regular Expressions for Log Analysis and Parsing
+
+***Practical Example***
+Scenario:
+
+You have an Apache log (apache-ex2.log) and want to find all visits to blog posts with IDs 10-19.
+Solution:
+
+using grep with regex
+```bash
+grep -E 'post=1[0-9]' apache-ex2.log
+```
+ ***Explanation***
+ post= → Matches literal text.
+
+1[0-9] → Matches numbers 10-19.
+
+
